@@ -14,6 +14,10 @@ robust temperature‑reading logic (coretemp / k10temp / hwmon / thermal zones).
 
 ![Heat](icons/heat.svg)
 
+## Screenshot
+
+![Heat screenshot](screenshot.png)
+
 ## Features
 
 - **Live graph** — the temperature over the session, drawn as a warm
