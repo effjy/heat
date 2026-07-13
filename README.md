@@ -1,9 +1,12 @@
-# Heat v1.0.1
+<div align="center">
+<a href="https://github.com/effjy/heat/"><img src="titles/heat-title.svg" height="52" alt="Heat"></a>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![GTK4](https://img.shields.io/badge/GTK-4.0-blue)
 ![C++17](https://img.shields.io/badge/C++-17-blue)
+
+</div>
 
 A small GTK4 desktop app that watches your **CPU package temperature over
 time**, draws a live heat‑gradient graph, and exports the recorded session to a
