@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="96" viewBox="0 0 260 96" role="img" aria-label="Heat">
+  <title>Heat</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00FFCC"/>
+      <stop offset="55%" stop-color="#1FB6FF"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="url(#g)" filter="url(#glow)">
+    <path d="M57 0 L57 720 L138 720 L138 401 L713 401 L713 720 L795 720 L795 0 L713 0 L713 319 L138 319 L138 0 L57 0 Z" transform="translate(36.00,70.0) scale(0.05104,-0.05104)"/>
+    <path d="M58 0 L58 720 L715 720 L715 639 L139 639 L139 401 L602 401 L602 319 L139 319 L139 81 L715 81 L715 0 L58 0 Z" transform="translate(87.43,70.0) scale(0.05104,-0.05104)"/>
+    <path d="M58 0 L58 600 Q58 633 74 660 Q90 688 117 704 Q145 720 178 720 L658 720 Q691 720 718 704 Q746 688 762 660 Q778 633 778 600 L778 0 L697 0 L697 263 L139 263 L139 0 L58 0 L58 0 M139 344 L697 344 L697 600 Q697 616 685 627 Q674 639 658 639 L178 639 Q162 639 150 627 Q139 616 139 600 L139 344 L139 344 Z" transform="translate(134.53,70.0) scale(0.05104,-0.05104)"/>
+    <path d="M340 0 L340 0 L340 639 L20 639 L20 720 L740 720 L740 639 L421 639 L421 0 L340 0 Z" transform="translate(185.19,70.0) scale(0.05104,-0.05104)"/>
+  </g>
+</svg>
