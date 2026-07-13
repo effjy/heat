@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Heat
+GenericName=CPU Temperature Monitor
+Comment=Watch CPU temperature over time and export a PDF report
+Exec=heat
+Icon=heat
+Terminal=false
+Categories=System;Monitor;GTK;
+Keywords=cpu;temperature;heat;thermal;monitor;sensor;graph;pdf;
+StartupNotify=true
+StartupWMClass=heat
