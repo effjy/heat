@@ -15,8 +15,6 @@ time**, draws a live heat‑gradient graph, and exports the recorded session to 
 It is a focused companion to the *Pulse* system monitor and reuses Pulse's
 robust temperature‑reading logic (coretemp / k10temp / hwmon / thermal zones).
 
-![Heat](icons/heat.svg)
-
 ## Screenshot
 
 ![Heat screenshot](screenshot.png)
